@@ -2,7 +2,7 @@
 
 Used :  Spring Web flux(Reactive Spring REST API), Mongo DB, Kafka(producer), Hazelcast, @RequestParam
 
-o	This application has all the functionalities that the 1st one(Employee-Service) have but with better executions. E.g.
+- This application has all the functionalities that the 1st one(Employee-Service : https://github.com/SaikGhos/EmployeeService.git) have but with better executions. E.g.
 
 - Implemented a Springboot REST endpoint - findEmpSkillSet - that fetches a list if employees from Cassandra matching the input(Java exp/Spring exp/Both)
 
